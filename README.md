@@ -1,3 +1,3 @@
 # NHL Scores
 
-The NHL Scores Windows Phone app.
+The NHL Scores app.
